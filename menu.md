@@ -8,5 +8,6 @@
 # Primi
 
 [fritti/olive_ascolane.md](Olive Ascolane)
+[fritti/arancini.md](Arancinic)
 
 Paninoteca Padovana
